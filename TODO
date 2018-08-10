@@ -2,6 +2,7 @@ Create simple program to pull user_id for current coehort community on Twitch
 
 Create a website to host community member list
 Use member list to request stream info from Twitch
+Limit to live?
 Determine how often to request info from Twitch
 Display list of streamers in order of viewer count with title and game
 Future: Make profile pages from pulled streamer info
