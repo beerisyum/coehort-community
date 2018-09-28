@@ -1,0 +1,7 @@
+# Ignore Coe's 8 year sub badges until I get permission to use them (or told to not use them)
+/public/static/images/*.png
+/public/static/images/*.ico
+# Ignore bootstrap
+/public/static/stylesheets/bootstrap
+# Ignore binaries
+*.exe
